@@ -1,5 +1,3 @@
-0 Gato
-1 Cachorro
 0 Leão
 1 Tigre
 2 Hiena
