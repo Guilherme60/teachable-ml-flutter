@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
       themedWidgetBuilder: (context, theme) {
         return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'TFLite (Apple, Pear or Strawberry)',
+      title: 'TFLite (Leão, Tigre ou Hiena)',
       theme: theme,
       home: HomePage(),
     );
